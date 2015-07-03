@@ -1,6 +1,5 @@
-Futallaby 031222
+nonImiss 
+Work in progress.
 
-For setup instructions and latest version, please visit:
-http://www.mapored.com/futallaby/
+2kool4skool.
 
-Based on GazouBBS and Futaba
