@@ -1,6 +1,10 @@
-Futallaby 031222
+evaluacion del 50%  con don este.
 
-For setup instructions and latest version, please visit:
-http://www.mapored.com/futallaby/
+Felipe Vera
+Luis Contreras
+Melissa Guala
 
-Based on GazouBBS and Futaba
+_____________________________________________________________________________________
+
+Objetivo es _crear un foro de discusión simple en PHP con bases de datos MySQL.
+La estructura debe ser: 1 pregunta, varias respuestas. Las respuestas sólo deben tener campo "respuesta", sin logueo ni usuarios._
