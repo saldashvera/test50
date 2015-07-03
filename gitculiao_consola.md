@@ -75,10 +75,10 @@ y despues va a decir "Success!" y alguna mierda con que se han subido los archiv
 Pa cachar si de verdat verdat los archivos se subieron al repo se usa el comando
 
 ~~~
-$git checkout master
+$ git checkout master
 ~~~
 
  el cual lista los archivos que estan en el repo.
  Ahora si queríh la wea tambien, sino refrescai la wea de pagina del repo y verificai si si o si no.
 
- Si no aplicai un _if _ y empezai otra vez.
+ Si no aplicai un loop y empezai otra vez.
