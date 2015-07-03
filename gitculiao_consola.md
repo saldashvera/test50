@@ -26,7 +26,8 @@ ________________________________________________________________________________
   $ mkdir /home/(usuario))/repo
    $ cd /home/(usuario))/repo
    $ git init  <--inicializar repositorio de git-->>
-   $ git clone github.com/usuario/repo <--clona archivos del repositorio de git en carpeta local-->>~~~
+   $ git clone github.com/usuario/repo <--clona archivos del repositorio de git en carpeta local-->>
+   ~~~
 
    git va a pedir nombre de usuario y password y procederá con la clonacion de (tarjetas)
 
@@ -37,18 +38,21 @@ ________________________________________________________________________________
  Tenemos el repo de trabajo, el index y el HEAD, el cual apunta al ultimo cambio que se hizo.
 
 
- Se pueden agregar archivos de dos maneras
-  (en terminal con situandose dentro de la carpeta del repo)
-  con
+ Se pueden agregar archivos de dos maneras   (en terminal con situandose dentro de la carpeta del repo) con
 ~~~  
 $ git add <nombre de archivo> <--para agregarlos uno por uno-->
 ~~~
+
+
   o
+
+
 ~~~
 $ git add(espacio)(asterisco) <--para agregarlos todos-->
 ~~~
 
   y se usa el comando
+
 ~~~
  $ git commit -m "mensaje je je je"
  ~~~
@@ -59,17 +63,21 @@ $ git add(espacio)(asterisco) <--para agregarlos todos-->
 
  Los cambios etán en el HEAD, pero el weón no se ha pegado la avispá de que hay que subir los archivos al index,
   asi que se le da un _empujoncito_ con el commando
+
 ~~~  
 $ git push (github.com/usuario/repo) master
 ~~~
-        terminal va a entregar una serie de instrucciones tipo "aguantame un metro que estoy subiendo estas cuestiones"
+
+        terminal va a entregar una serie de instrucciones tipo "_aguantame un metro que estoy subiendo estas cuestiones_"
         y despues va a decir "Success!" y alguna mierda con que se han subido los archivos y la wea.
 
  Pa cachar si de verdat verdat los archivos se subieron al repo se usa el comando
+
 ~~~
 $git checkout master
 ~~~
- el cual te lista los archivos que estan en el repo.
+
+ el cual lista los archivos que estan en el repo.
  Ahora si queríh la wea tambien, sino refrescai la wea de pagina del repo y verificai si si o si no.
 
  Si no aplicai un _if _ y empezai otra vez.
