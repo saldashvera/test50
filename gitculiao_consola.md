@@ -7,7 +7,7 @@
  No me la ganaste git reculiao :v
 
 
- Ahora; lo bonito y lo importante es como se usa (no pa que sirve y que mierda es lo que es; la cosa es simple Git es un sistema de monitoreo de paquetes,  presumiblemente codigo, el cual se utiliza dentro de consola en linux; y hay un monton de GUI pa mac y wilson.
+ Ahora; lo bonito y lo importante es como se usa (no pa que sirve y que mierda es lo que es; la cosa es simple Git es un sistema de monitoreo de paquetes,  presumiblemente codigo) el cual se usa pa un monton de weas en un monton de sistemas operativos. Y la gran mayoria de los gui pa linux son kkck
 
 ____________________________________________________________________________________________________________________________________________
 
