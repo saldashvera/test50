@@ -1,7 +1,7 @@
  Primero que todo; me costo mas que la mierda poder subir un puto archivo, los programas con GUI pa GIT en linux no me sirvieron (posiblemente debido a una  mala configuracion
    del mismo).
  Luego de una exhaustiva busqueda por los rincones de san google encontré un tutorial, en contré varios en realidad, de los cuales no se hace uno.
- Faltaban un monton de cosas, tipo que hay que situarse en la carpeta que se quiere usar como repo en GIT, o que hay que hacer efecutar ciertos  procedimientos, etc, etc, etc.
+ Faltaban un monton de cosas, tipo que hay que situarse en la carpeta que se quiere usar como repo en GIT, o que hay que efecutar ciertos procedimientos, etc, etc, etc.
 
 
  No me la ganaste git reculiao :v
